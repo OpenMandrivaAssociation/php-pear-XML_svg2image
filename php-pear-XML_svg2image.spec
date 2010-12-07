@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Converts a SVG file to a PNG/JPEG image
 License:	PHP License
 Group:		Development/PHP
