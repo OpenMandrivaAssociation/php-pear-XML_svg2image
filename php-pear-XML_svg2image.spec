@@ -8,7 +8,7 @@ Release:	2
 Summary:	Converts a SVG file to a PNG/JPEG image
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_svg2image/
+URL:		https://pear.php.net/package/XML_svg2image/
 Source0:	http://download.pear.php.net/package/XML_svg2image-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
